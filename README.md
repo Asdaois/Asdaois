@@ -1,6 +1,7 @@
 ### Hi there 👋
 # Full Stack Developer
 ## Always improving day by day
+## Currently learing Kotlin
 <!--
 **Asdaois/Asdaois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
