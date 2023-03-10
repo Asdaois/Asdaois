@@ -1,6 +1,6 @@
-# Here's your Markdown introduction for your GitHub profile! 👋
+# Hello World!
 
-Hello there! My name is Jose Guevara, and I'm an electronic engineer turned software engineer. I'm passionate about writing clean, efficient code and developing software using the MERN stack 🌱. I have experience with Android programming 📱, databases 🗃️, .NET 🧰, and video game development 🎮 as a hobby.
+My name is Jose Guevara, and I'm an electronic engineer turned software engineer. I'm passionate about writing clean, efficient code and developing software using the MERN stack 🌱. I have experience with Android programming 📱, databases 🗃️, .NET 🧰, and video game development 🎮 as a hobby.
 
 ## What I'm up to
 
