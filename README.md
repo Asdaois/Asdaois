@@ -1,25 +1,17 @@
-### Hi there 👋
-# Full Stack Developer
-## Always improving day by day
-## Currently learing Kotlin
-<!--
-**Asdaois/Asdaois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Here's your Markdown introduction for your GitHub profile! 👋
 
-Here are some ideas to get you started:
+Hello there! My name is Jose Guevara, and I'm an electronic engineer turned software engineer. I'm passionate about writing clean, efficient code and developing software using the MERN stack 🌱. I have experience with Android programming 📱, databases 🗃️, .NET 🧰, and video game development 🎮 as a hobby.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ... React, Node, TDD, DDD
-- 👯 I’m looking to collaborate on ... React, Node
-- 🤔 I’m looking for help with ... 
-- 💬 Ask me about ... anything
-- 📫 How to reach me: ... [Website](https://asdaois.github.io/personal-website/)
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... 
--->
+## What I'm up to
 
-- 🌱 I’m currently learning ... React, Node, TDD, DDD
-- 👯 I’m looking to collaborate on ... React, Node, C++, Game Projects
-- 💬 Ask me about ... anything
-- 📫 How to reach me: ... [Website](https://asdaois.github.io/personal-website/)
-- 😄 Pronouns: ... He/Him
-- ✨ Hobbyts: ... Writing, Reading, Game Development
+Currently, I'm focusing on improving my skills as a software engineer and contributing to open source projects whenever I can. I'm always on the lookout for interesting projects to work on and challenging problems to solve.
+
+## What drives me
+
+I'm driven by the opportunity to create software that makes people's lives easier and improves their quality of life. I believe that technology can be a force for good and I'm excited to be a part of the community of developers who are making a positive impact in the world. 🚀
+
+## Let's connect! 🤝
+
+If you'd like to learn more about me or my work, feel free to get in touch! You can find me on LinkedIn or Twitter (@joseguevara). 👀
+
+[LinkedIn](https://www.linkedin.com/in/jose-guevara-934a711a3/)
