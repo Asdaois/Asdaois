@@ -1,5 +1,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asdaois)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asdaois)](https://github.com/anuraghazra/github-readme-stats)
+# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asdaois)](https://github.com/anuraghazra/github-readme-stats)
 # Hello World!
 
 My name is Jose Guevara, and I'm an electronic engineer turned software engineer. I'm passionate about writing clean, efficient code and developing software using the MERN stack 🌱. I have experience with Android programming 📱, databases 🗃️, .NET 🧰, and video game development 🎮 as a hobby.
