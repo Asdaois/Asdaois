@@ -1,6 +1,8 @@
+*My website is obsolete and under construction, sorry for the inconvenience.*
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asdaois)](https://github.com/anuraghazra/github-readme-stats)
 
-# About me! [Website](https://asdaois.github.io/personal-website/)
+# About me! 
 
 I'm an electronic engineer with a focus in software engineering. I have an intense enthusiasm for using the node ecosystem to build apps and for writing clean, efficient code. Learning new things and making video games are my hobbies.
 
