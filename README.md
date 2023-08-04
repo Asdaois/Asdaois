@@ -28,4 +28,4 @@ I'm driven by the opportunity to create software that makes people's lives easie
 - [local arp ("NextJS")](https://github.com/Asdaois/local-arp)
 - [ondin-book ("facebook clone")](https://github.com/Asdaois/odin-book)
 - [Full Stack Open Course](https://github.com/Asdaois/full-stack-open) [link to course](https://fullstackopen.com/en/)
-- [The odin Project](https://github.com/Asdaois/The-Odin-Projects)
+- [The odin Project](https://github.com/Asdaois/The-Odin-Projects) [link to course](https://www.theodinproject.com/)
