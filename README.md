@@ -15,3 +15,15 @@ I'm driven by the opportunity to create software that makes people's lives easie
 ## Let's connect! 
 
 [LinkedIn](https://www.linkedin.com/in/jose-guevara-934a711a3/)
+
+## Projects ("Links to github projects not to deploy")
+- [X] [Posicionador GPS](https://github.com/Asdaois/posicionador-gps)
+- [ ] [Unity Junior Programmer Course](https://github.com/Asdaois/Junior-Programmer)
+- [ ] [Blood pressure simulation](https://github.com/Asdaois/simulacion-presion-arterial)
+- [ ] [microwave ("written in pic assembler")](https://github.com/Asdaois/microondas)
+- [ ] [stopwatch timer ("written in pic assemble")](https://github.com/Asdaois/cronometro-timer)
+- [ ] [Kitchen chaous ("a unity game")](https://github.com/Asdaois/KitchenChaos)
+- [ ] [local arp ("NextJS")](https://github.com/Asdaois/local-arp)
+- [ ] [ondin-book ("facebook clone")](https://github.com/Asdaois/odin-book)
+- [ ] [Full Stack Open Course](https://github.com/Asdaois/full-stack-open) [link to course](https://fullstackopen.com/en/)
+- [ ] [The odin Project](https://github.com/Asdaois/The-Odin-Projects)
