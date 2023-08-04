@@ -1,7 +1,9 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asdaois)](https://github.com/anuraghazra/github-readme-stats)
-# Hello World!
+[Website](https://asdaois.github.io/personal-website/)
 
-My name is Jose Guevara, and I'm an electronic engineer turned software engineer. I'm passionate about writing clean, efficient code and developing software using the MERN stack 🌱. I have experience with Android programming 📱, databases 🗃️, .NET 🧰, and video game development 🎮 as a hobby.
+# About me!
+
+I'm an electronic engineer with a focus in software engineering. I have an intense enthusiasm for using the node ecosystem to build apps and for writing clean, efficient code. Learning new things and making video games are my hobbies.
 
 ## What I'm up to
 
@@ -9,10 +11,8 @@ Currently, I'm focusing on improving my skills as a software engineer and contri
 
 ## What drives me
 
-I'm driven by the opportunity to create software that makes people's lives easier and improves their quality of life. I believe that technology can be a force for good and I'm excited to be a part of the community of developers who are making a positive impact in the world. 🚀
+I'm driven by the opportunity to create software that makes people's lives easier and improves their quality of life. I believe that technology can be a force for good and I'm excited to be a part of the community of developers who are making a positive impact in the world. 
 
-## Let's connect! 🤝
-
-If you'd like to learn more about me or my work, feel free to get in touch! You can find me on LinkedIn or Twitter (@joseguevara). 👀
+## Let's connect! 
 
 [LinkedIn](https://www.linkedin.com/in/jose-guevara-934a711a3/)
