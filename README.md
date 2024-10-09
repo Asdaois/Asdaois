@@ -18,7 +18,7 @@ I'm driven by the opportunity to create software that makes people's lives easie
 
 [LinkedIn](https://www.linkedin.com/in/jose-guevara-934a711a3/)
 
-## Projects ("Links to github projects not to deploy")
+## Projects ("Links to github projects")
 - [Posicionador GPS ("Arduino / HTML5")](https://github.com/Asdaois/posicionador-gps)
 - [Unity Junior Programmer Course](https://github.com/Asdaois/Junior-Programmer)
 - [Blood pressure simulation ("Arduino")](https://github.com/Asdaois/simulacion-presion-arterial)
